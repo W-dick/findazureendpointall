@@ -1,0 +1,20 @@
+{
+    "Author": "VirtualRW",
+    "ContentSize": 3678,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/findazureendpointall/master/Find%20EndPoints%20All%20v2.ps1",
+    "DownloadCount": 1327,
+    "Id": "Find-AzureEndPointAll-a9b137f5",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 438,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-11-30T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This is an updated script using the CMDLET add-azureaccount. If a subscription is not found it will prompt for a user that has associated subscriptions. If subscriptions are found the script will notify you and proceed to scan the VMs in each subscription..SynopsisThis script w",
+    "Title": "Find-AzureEndPointAll",
+    "UpdatedDate": "2013-11-30T00:00:00",
+    "Url": "https://github.com/azureautomation/findazureendpointall",
+    "UserTags": ""
+}
