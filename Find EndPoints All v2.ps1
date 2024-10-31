@@ -98,3 +98,4 @@ function Find-AzureEndPointsAll
     }
 }
 
+New-AzureReservedIP –ReservedIPName IP –Location "East Asia"
